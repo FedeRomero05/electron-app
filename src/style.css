@@ -1,0 +1,9 @@
+:root {
+    --scheme: light dark;
+    color-scheme: var(--scheme);
+}
+
+body {
+    display: grid;
+    place-content: center;
+}
